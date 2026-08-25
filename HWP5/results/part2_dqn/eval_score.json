@@ -1,0 +1,6 @@
+{
+  "greedy_mean_return": 112.66666666666667,
+  "greedy_std_return": 3.2591750830880843,
+  "n_episodes_trained": 400,
+  "best_train_return": 438.0
+}

@@ -1,0 +1,5 @@
+{
+  "greedy_success_rate": 1.0,
+  "greedy_mean_return": 1.0,
+  "n_episodes_trained": 5000
+}

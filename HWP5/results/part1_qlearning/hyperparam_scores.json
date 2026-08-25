@@ -1,0 +1,7 @@
+{
+  "baseline": 1.0,
+  "small gamma (gamma=0.5)": 1.0,
+  "large learning rate (alpha=0.9)": 1.0,
+  "fast decay (eps_decay=0.01)": 0.0,
+  "slippery lake!": 0.695
+}

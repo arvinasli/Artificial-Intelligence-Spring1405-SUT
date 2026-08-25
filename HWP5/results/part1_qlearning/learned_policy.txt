@@ -1,0 +1,5 @@
+Greedy policy (arrows = action, H=hole, G=goal):
+↓ ← ← ←
+↓ H ↓ H
+→ ↓ ↓ H
+H → → G
